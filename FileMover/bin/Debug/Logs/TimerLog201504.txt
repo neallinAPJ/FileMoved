@@ -1,0 +1,143 @@
+2015-04-10 06:48: Begin to move file.
+2015-04-10 06:48: 遍历文件夹：D:\neal1
+2015-04-10 06:48: 从文件夹D:\neal1，移动到文件夹D:\neal4
+2015-04-10 06:48: Move File: nealdasdasdasd - 副本 (2).xlsx. Success.
+2015-04-10 06:48: Move File: nealdasdasdasd - 副本 (3).xlsx. Success.
+2015-04-10 06:48: Move File: nealdasdasdasd - 副本 (4).xlsx. Success.
+2015-04-10 06:48: Move File: nealdasdasdasd - 副本.xlsx. Success.
+2015-04-10 06:48: Move File: nealdasdasdasd.xlsx. Success.
+2015-04-10 06:48: Move File: nealdasdasdasd - 副本 (2).xlsx. Success.
+2015-04-10 06:48: Move File: nealdasdasdasd - 副本 (3).xlsx. Success.
+2015-04-10 06:48: Move File: nealdasdasdasd - 副本 (4).xlsx. Success.
+2015-04-10 06:48: Move File: nealdasdasdasd - 副本.xlsx. Success.
+2015-04-10 06:48: Move File: nealdasdasdasd.xlsx. Success.
+2015-04-10 06:48: Move File: nealdasdasdasd - 副本 (2).xlsx. Success.
+2015-04-10 06:48: Move File: nealdasdasdasd - 副本 (3).xlsx. Success.
+2015-04-10 06:48: Move File: nealdasdasdasd - 副本 (4).xlsx. Success.
+2015-04-10 06:48: Move File: nealdasdasdasd - 副本.xlsx. Success.
+2015-04-10 06:48: Move File: nealdasdasdasd.xlsx. Success.
+2015-04-10 06:48: Move File: nealdasdasdasd - 副本 (2).xlsx. Success.
+2015-04-10 06:48: Move File: nealdasdasdasd - 副本 (3).xlsx. Success.
+2015-04-10 06:48: Move File: nealdasdasdasd - 副本 (4).xlsx. Success.
+2015-04-10 06:48: Move File: nealdasdasdasd - 副本.xlsx. Success.
+2015-04-10 06:48: Move File: nealdasdasdasd.xlsx. Success.
+2015-04-10 06:48: 遍历文件夹：D:\neal2
+2015-04-10 06:48: 从文件夹D:\neal2，移动到文件夹D:\neal4
+2015-04-10 06:48: Move File: neal5555555 - 副本 (2).xlsx. Success.
+2015-04-10 06:48: Move File: neal5555555 - 副本 (3).xlsx. Success.
+2015-04-10 06:48: Move File: neal5555555 - 副本 (4).xlsx. Success.
+2015-04-10 06:48: Move File: neal5555555 - 副本.xlsx. Success.
+2015-04-10 06:48: Move File: neal5555555.xlsx. Success.
+2015-04-10 06:48: Move File: neal5555555 - 副本 (2).xlsx. Success.
+2015-04-10 06:48: Move File: neal5555555 - 副本 (3).xlsx. Success.
+2015-04-10 06:48: Move File: neal5555555 - 副本 (4).xlsx. Success.
+2015-04-10 06:48: Move File: neal5555555 - 副本.xlsx. Success.
+2015-04-10 06:48: Move File: neal5555555.xlsx. Success.
+2015-04-10 06:48: Move File: neal5555555 - 副本 (2).xlsx. Success.
+2015-04-10 06:48: Move File: neal5555555 - 副本 (3).xlsx. Success.
+2015-04-10 06:48: Move File: neal5555555 - 副本 (4).xlsx. Success.
+2015-04-10 06:48: Move File: neal5555555 - 副本.xlsx. Success.
+2015-04-10 06:48: Move File: neal5555555.xlsx. Success.
+2015-04-10 06:48: Move File: neal5555555 - 副本 (2).xlsx. Success.
+2015-04-10 06:48: Move File: neal5555555 - 副本 (3).xlsx. Success.
+2015-04-10 06:48: Move File: neal5555555 - 副本 (4).xlsx. Success.
+2015-04-10 06:48: Move File: neal5555555 - 副本.xlsx. Success.
+2015-04-10 06:48: Move File: neal5555555.xlsx. Success.
+2015-04-10 06:48: End to move file.
+2015-04-10 28:26: Begin to move file.
+2015-04-10 28:26: Traverse folder：D:\neal1
+2015-04-10 28:26: From the D:\neal1 folder, move to folder D:\neal4
+2015-04-10 28:26: Move File: nealdasdasdasd - 副本 (2).xlsx. Success.
+2015-04-10 28:26: Move File: nealdasdasdasd - 副本 (3).xlsx. Success.
+2015-04-10 28:26: Move File: nealdasdasdasd - 副本 (4).xlsx. Success.
+2015-04-10 28:26: Move File: nealdasdasdasd - 副本.xlsx. Success.
+2015-04-10 28:26: Move File: nealdasdasdasd.xlsx. Success.
+2015-04-10 28:26: Move File: nealdasdasdasd - 副本 (2).xlsx. Success.
+2015-04-10 28:26: Move File: nealdasdasdasd - 副本 (3).xlsx. Success.
+2015-04-10 28:26: Move File: nealdasdasdasd - 副本 (4).xlsx. Success.
+2015-04-10 28:26: Move File: nealdasdasdasd - 副本.xlsx. Success.
+2015-04-10 28:26: Move File: nealdasdasdasd.xlsx. Success.
+2015-04-10 28:26: Move File: nealdasdasdasd - 副本 (2).xlsx. Success.
+2015-04-10 28:26: Move File: nealdasdasdasd - 副本 (3).xlsx. Success.
+2015-04-10 28:26: Move File: nealdasdasdasd - 副本 (4).xlsx. Success.
+2015-04-10 28:26: Move File: nealdasdasdasd - 副本.xlsx. Success.
+2015-04-10 28:26: Move File: nealdasdasdasd.xlsx. Success.
+2015-04-10 28:26: Move File: nealdasdasdasd - 副本 (2).xlsx. Success.
+2015-04-10 28:26: Move File: nealdasdasdasd - 副本 (3).xlsx. Success.
+2015-04-10 28:26: Move File: nealdasdasdasd - 副本 (4).xlsx. Success.
+2015-04-10 28:26: Move File: nealdasdasdasd - 副本.xlsx. Success.
+2015-04-10 28:26: Move File: nealdasdasdasd.xlsx. Success.
+2015-04-10 28:26: Traverse folder：D:\neal2
+2015-04-10 28:27: From the D:\neal2 folder, move to folder D:\neal4
+2015-04-10 28:27: Move File: neal5555555 - 副本 (2).xlsx. Success.
+2015-04-10 28:27: Move File: neal5555555 - 副本 (3).xlsx. Success.
+2015-04-10 28:27: Move File: neal5555555 - 副本 (4).xlsx. Success.
+2015-04-10 28:27: Move File: neal5555555 - 副本.xlsx. Success.
+2015-04-10 28:27: Move File: neal5555555.xlsx. Success.
+2015-04-10 28:27: Move File: neal5555555 - 副本 (2).xlsx. Success.
+2015-04-10 28:27: Move File: neal5555555 - 副本 (3).xlsx. Success.
+2015-04-10 28:27: Move File: neal5555555 - 副本 (4).xlsx. Success.
+2015-04-10 28:27: Move File: neal5555555 - 副本.xlsx. Success.
+2015-04-10 28:27: Move File: neal5555555.xlsx. Success.
+2015-04-10 28:27: Move File: neal5555555 - 副本 (2).xlsx. Success.
+2015-04-10 28:27: Move File: neal5555555 - 副本 (3).xlsx. Success.
+2015-04-10 28:27: Move File: neal5555555 - 副本 (4).xlsx. Success.
+2015-04-10 28:27: Move File: neal5555555 - 副本.xlsx. Success.
+2015-04-10 28:27: Move File: neal5555555.xlsx. Success.
+2015-04-10 28:27: Move File: neal5555555 - 副本 (2).xlsx. Success.
+2015-04-10 28:27: Move File: neal5555555 - 副本 (3).xlsx. Success.
+2015-04-10 28:27: Move File: neal5555555 - 副本 (4).xlsx. Success.
+2015-04-10 28:27: Move File: neal5555555 - 副本.xlsx. Success.
+2015-04-10 28:27: Move File: neal5555555.xlsx. Success.
+2015-04-10 28:27: End to move file.
+2015-04-10 29:56: Read the configuration file error, error message：找不到必需的特性“index”。 (E:\MyWorkStation\Work\FileMover\FileMover\bin\Debug\FileMover.vshost.exe.config line 9)
+2015-04-10 29:56: Begin to move file.
+2015-04-10 29:56: End to move file.
+2015-04-10 30:28: Begin to move file.
+2015-04-10 30:28: Traverse folder：D:\neal1
+2015-04-10 30:50: Begin to move file.
+2015-04-10 30:50: Traverse folder：D:\neal1
+2015-04-10 31:22: From the D:\neal1 folder, move to folder D:\neal4
+2015-04-10 31:22: Move File: nealdasdasdasd - 副本 (2).xlsx. Success.
+2015-04-10 31:22: Move File: nealdasdasdasd - 副本 (3).xlsx. Success.
+2015-04-10 31:22: Move File: nealdasdasdasd - 副本 (4).xlsx. Success.
+2015-04-10 31:22: Move File: nealdasdasdasd - 副本.xlsx. Success.
+2015-04-10 31:22: Move File: nealdasdasdasd.xlsx. Success.
+2015-04-10 31:22: Move File: nealdasdasdasd - 副本 (2).xlsx. Success.
+2015-04-10 31:22: Move File: nealdasdasdasd - 副本 (3).xlsx. Success.
+2015-04-10 31:22: Move File: nealdasdasdasd - 副本 (4).xlsx. Success.
+2015-04-10 31:22: Move File: nealdasdasdasd - 副本.xlsx. Success.
+2015-04-10 31:22: Move File: nealdasdasdasd.xlsx. Success.
+2015-04-10 31:22: Move File: nealdasdasdasd - 副本 (2).xlsx. Success.
+2015-04-10 31:22: Move File: nealdasdasdasd - 副本 (3).xlsx. Success.
+2015-04-10 31:22: Move File: nealdasdasdasd - 副本 (4).xlsx. Success.
+2015-04-10 31:22: Move File: nealdasdasdasd - 副本.xlsx. Success.
+2015-04-10 31:22: Move File: nealdasdasdasd.xlsx. Success.
+2015-04-10 31:22: Move File: nealdasdasdasd - 副本 (2).xlsx. Success.
+2015-04-10 31:22: Move File: nealdasdasdasd - 副本 (3).xlsx. Success.
+2015-04-10 31:22: Move File: nealdasdasdasd - 副本 (4).xlsx. Success.
+2015-04-10 31:22: Move File: nealdasdasdasd - 副本.xlsx. Success.
+2015-04-10 31:22: Move File: nealdasdasdasd.xlsx. Success.
+2015-04-10 31:22: Traverse folder：D:\neal2
+2015-04-10 31:24: From the D:\neal2 folder, move to folder D:\neal4
+2015-04-10 31:24: Move File: neal5555555 - 副本 (2).xlsx. Success.
+2015-04-10 31:24: Move File: neal5555555 - 副本 (3).xlsx. Success.
+2015-04-10 31:24: Move File: neal5555555 - 副本 (4).xlsx. Success.
+2015-04-10 31:24: Move File: neal5555555 - 副本.xlsx. Success.
+2015-04-10 31:24: Move File: neal5555555.xlsx. Success.
+2015-04-10 31:24: Move File: neal5555555 - 副本 (2).xlsx. Success.
+2015-04-10 31:24: Move File: neal5555555 - 副本 (3).xlsx. Success.
+2015-04-10 31:24: Move File: neal5555555 - 副本 (4).xlsx. Success.
+2015-04-10 31:24: Move File: neal5555555 - 副本.xlsx. Success.
+2015-04-10 31:24: Move File: neal5555555.xlsx. Success.
+2015-04-10 31:24: Move File: neal5555555 - 副本 (2).xlsx. Success.
+2015-04-10 31:24: Move File: neal5555555 - 副本 (3).xlsx. Success.
+2015-04-10 31:24: Move File: neal5555555 - 副本 (4).xlsx. Success.
+2015-04-10 31:24: Move File: neal5555555 - 副本.xlsx. Success.
+2015-04-10 31:24: Move File: neal5555555.xlsx. Success.
+2015-04-10 31:24: Move File: neal5555555 - 副本 (2).xlsx. Success.
+2015-04-10 31:24: Move File: neal5555555 - 副本 (3).xlsx. Success.
+2015-04-10 31:24: Move File: neal5555555 - 副本 (4).xlsx. Success.
+2015-04-10 31:24: Move File: neal5555555 - 副本.xlsx. Success.
+2015-04-10 31:24: Move File: neal5555555.xlsx. Success.
+2015-04-10 31:24: End to move file.

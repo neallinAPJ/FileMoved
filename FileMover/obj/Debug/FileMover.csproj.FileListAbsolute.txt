@@ -1,0 +1,8 @@
+E:\MyWorkStation\Work\FileMover\FileMover\bin\Debug\FileMover.exe.config
+E:\MyWorkStation\Work\FileMover\FileMover\bin\Debug\FileMover.exe
+E:\MyWorkStation\Work\FileMover\FileMover\bin\Debug\FileMover.pdb
+E:\MyWorkStation\Work\FileMover\FileMover\obj\Debug\FileMover.exe
+E:\MyWorkStation\Work\FileMover\FileMover\obj\Debug\FileMover.pdb
+E:\FileMover\FileMover\bin\Debug\FileMover.exe.config
+E:\FileMover\FileMover\obj\Debug\FileMover.exe
+E:\FileMover\FileMover\obj\Debug\FileMover.pdb
